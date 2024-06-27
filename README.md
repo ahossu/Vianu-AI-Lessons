@@ -17,7 +17,7 @@ The founders of the Artificial Intelligence Club are students: `Alexandru Hossu`
 * `Ecaterina Ștefănescu`
 * `Victor Nicola`
 
-The club aims to introduce students to Artificial Intelligence, one of the most exciting domains of Computer Science. In this club, the solid knowledge of mathematics and programming acquired in high school creates the premise for developing a core of debates and the development of applications using techniques and algorithms that underpin machine learning (Machine Learning) and data science (Data Science).
+The club aims to introduce students to Artificial Intelligence, one of the most exciting domains of Computer Science. In this club, the solid knowledge of mathematics and programming acquired in high school creates the premise for developing a core of debates and the development of applications using techniques and algorithms that underpin Machine Learning and Data Science.
 
 Registrations are made via the form at https://forms.gle/oxNVH6QguXtik6fu6.
 
