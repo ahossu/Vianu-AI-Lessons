@@ -1,9 +1,12 @@
 ### Artificial Intelligence Club - 'Tudor Vianu' High School in Bucharest, Romania
+
 #### 2023 - 2024 Edition
 
-The interest of our school's students in the latest technology fields is well known. This club aims to introduce students to Artificial Intelligence, one of the most exciting domains of Computer Science.
+The interest of our school's students in the latest technology fields is well known.
 
-The founders of the Artificial Intelligence Club are students: `Alexandru Hossu` and `Ana Petcu`.
+The club aims to introduce students to Artificial Intelligence, one of the most exciting domains of Computer Science. In this club, the solid knowledge of mathematics and programming acquired in high school creates the premise for developing a core of debates and the development of applications using techniques and algorithms that underpin Machine Learning and Data Science.
+
+#### The founders of the Artificial Intelligence Club are students: `Alexandru Hossu` and `Ana Petcu`.
 
 #### Coordinators:
 * Prof. `Victor Manz`
@@ -17,9 +20,7 @@ The founders of the Artificial Intelligence Club are students: `Alexandru Hossu`
 * `Ecaterina Ștefănescu`
 * `Victor Nicola`
 
-The club aims to introduce students to Artificial Intelligence, one of the most exciting domains of Computer Science. In this club, the solid knowledge of mathematics and programming acquired in high school creates the premise for developing a core of debates and the development of applications using techniques and algorithms that underpin Machine Learning and Data Science.
-
-Registrations are made via the form at https://forms.gle/oxNVH6QguXtik6fu6.
+#### Registrations are made via the form at https://forms.gle/oxNVH6QguXtik6fu6.
 
 #### Contact:
 * Instagram (@vianu.ai) and Gmail (vianu.ai.club@gmail.com)
